@@ -1,0 +1,10 @@
+[package]
+name = "cli_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+assert_cmd = "2.0"
+predicates = "2.1"
+regex = "1.10"

@@ -1,0 +1,12 @@
+Modalità dettagliata attivata.
+Ripetizioni del saluto: 8
+Saluti: ["Salve", "Ciao", "Hey", "Hello"]
+Nomi: ["Mario", "Anna", "Giulia", "Paolo"]
+Salve Mario!
+Ciao Anna!
+Hey Giulia!
+Hello Paolo!
+Salve Mario!
+Ciao Anna!
+Hey Giulia!
+Hello Paolo!
